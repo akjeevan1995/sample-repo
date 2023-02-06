@@ -1,0 +1,23 @@
+package practiceJava;
+
+import java.util.Scanner;
+
+public class DemoTest2 {
+public static void main(String[] args) {
+	Scanner scanner = new Scanner(System.in);
+	
+	//String examStatus = scanner.nextLine();
+	System.out.println("hello, What is your name?");
+	
+	String status =scanner.nextLine();
+	System.out.println("What is your age?");
+	int age = scanner.nextInt();
+	
+	System.out.println("Are you from India?");
+			String s =scanner.nextLine();
+			
+	System.out.println("Thank you for the information!!");
+	scanner.close();
+}
+}
+

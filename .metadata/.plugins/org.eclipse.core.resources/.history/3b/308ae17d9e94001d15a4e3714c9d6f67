@@ -1,0 +1,34 @@
+package practiceJava;
+
+import java.util.Scanner;
+
+public class DemoTest2 {
+public static void main(String[] args) {
+	/*Scanner scanner = new Scanner(System.in);
+	
+	System.out.println("hello, What is your name?");
+	
+	String name =scanner.nextLine();
+	System.out.println("What is your age?");
+	int age = scanner.nextInt();
+		System.out.println("Are you age of above 18");
+			String country =scanner.nextLine();
+			
+			if( country == "Yes");{		
+			System.out.println("Welcome to India");
+			else {
+				System.out.println("Thank you for the information!!");
+			
+		System.out.println("Thank you for the information!!");}
+	scanner.close(); */
+	int i = 1;
+	while (i<=10) {
+		System.out.println(i);
+		i++;
+		
+	}
+	
+}
+}
+
+
