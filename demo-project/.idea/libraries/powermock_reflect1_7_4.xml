@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="powermock.reflect1.7.4" type="repository">
+    <properties maven-id="org.powermock:powermock-reflect:1.7.4" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/1.7.4/powermock-reflect-1.7.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/objenesis/objenesis/2.4/objenesis-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

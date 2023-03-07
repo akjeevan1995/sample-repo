@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="powermock.reflect" type="repository">
+    <properties maven-id="org.powermock:powermock-reflect:2.0.9" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/powermock/powermock-reflect/2.0.9/powermock-reflect-2.0.9.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/objenesis/objenesis/3.0.1/objenesis-3.0.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy/1.10.14/byte-buddy-1.10.14.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/bytebuddy/byte-buddy-agent/1.10.14/byte-buddy-agent-1.10.14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
