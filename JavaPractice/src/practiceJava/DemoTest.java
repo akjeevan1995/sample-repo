@@ -15,9 +15,9 @@ public class DemoTest {
         System.out.println("Please varify your name by typing YES or NO");
 
        
-		if (input.equals(yes)) {
+		if (userInput.equals(yes)) {
             System.out.println("Your name is: " + name);
-        } else if (input.equals(no)) {
+        } else if (userInput.equals(no)) {
             System.out.println("Enter your name again");
 
         }

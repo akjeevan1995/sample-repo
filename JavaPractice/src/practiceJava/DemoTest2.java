@@ -37,7 +37,8 @@ public static void main(String[] args) {
 	 * 
 	 * }
 	 * 
-	 */	String str = "applep";
+	 */
+	String str = "applep";
 	/*char arr[] = str.toCharArray();
 	char arr2[] = new char[5];
 	int count=1;
@@ -62,4 +63,4 @@ public static void main(String[] args) {
 }
 }
 */
-
+}}

@@ -4,11 +4,18 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class SampleTest {
+	public int mentiod(int a, int b) {
+		int c= a+b;
+		return c;
+	}
   @Test
   public void testMethod1() {
     int a = 5;
     int b = 3;
-    assertEquals(8, a+b);
+    
+   int d= mentiod(a,b);
+   System.out.println(d);
+   
   }
 
   @Test

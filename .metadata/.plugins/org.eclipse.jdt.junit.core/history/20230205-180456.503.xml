@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="SampleTest (1)" project="JavaPractice" tests="2" started="2" failures="0" errors="0" ignored="0">
-  <testsuite name="testCode.SampleTest" time="0.007">
-    <testcase name="testMethod1" classname="testCode.SampleTest" time="0.006"/>
-    <testcase name="testMethod2" classname="testCode.SampleTest" time="0.001"/>
-  </testsuite>
-</testrun>
